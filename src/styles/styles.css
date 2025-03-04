@@ -1,0 +1,22 @@
+.textInput {
+    display: grid;
+    font-family: 'Gotham-Book';
+}
+
+.labelText {
+    text-transform: uppercase;
+}
+
+.inputLabel {
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+.subLabel { 
+    margin-top: 8px;
+    font-size: small;
+}
+
+.errorText {
+    color: #D45E5E
+}
